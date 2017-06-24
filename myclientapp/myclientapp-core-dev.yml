@@ -1,0 +1,6 @@
+my:
+  init:
+    client:
+      server:
+          prop = success
+ 
