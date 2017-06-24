@@ -2,5 +2,5 @@ my:
   init:
     client:
       server:
-          prop = success
+          prop: success
  
