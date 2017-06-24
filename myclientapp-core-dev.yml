@@ -1,8 +1,8 @@
 my:
-  init:
-    client:
-      server:
-          prop: success
-  datasource:
-          user: orcl
-          password: {cipher}0ff0043d2848bb1d5f04c8ff22a4c1b7f6b123cffe54d42e4618c0852ad5454a
+ init:
+   client:
+     server:
+        prop: success
+ datasource:
+    user: orcl
+    password: "{cipher}0ff0043d2848bb1d5f04c8ff22a4c1b7f6b123cffe54d42e4618c0852ad5454a"
